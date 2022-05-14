@@ -1,0 +1,5 @@
+pyttsx3~=2.90
+moviepy~=1.0.3
+pydub~=0.25.1
+SpeechRecognition~=3.8.1
+deep-translator~=1.8.3
